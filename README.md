@@ -31,7 +31,7 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
 ### Phase 2: Fine-Tuning TinyLlama with QLoRA
 
 1. Open the fine-tuning notebook:  
-   [`notebooks/tinyllama_finetuning.ipynb`](notebooks/Fine_Tuning_TinyLlama_WebFAQ_20596371.ipynb)
+   [`notebooks/tinyllama_finetuning.ipynb`](notebooks/tinyllama_finetuning.ipynb)
 2. Run it in **Google Colab** with GPU enabled (T4 or A100).
 3. The notebook uses **Unsloth + QLoRA** (4-bit quantization, LoRA rank=16).
 4. Training hyperparameters:
