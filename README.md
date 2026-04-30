@@ -112,18 +112,17 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
 
 ---
 
-## Repository Structure
-
-
+## 📎 Repository Structure
 TinyLlama-AWS-Deployment/
 ├── data_processing/
-│   ├── data_ingestion.py
-│   └── data_preprocessing.py
+│ ├── data_ingestion.py
+│ └── data_preprocessing.py
 ├── notebooks/
-│   └── tinyllama_finetuning.ipynb
+│ └── tinyllama_finetuning.ipynb
 ├── Modelfile
 ├── README.md
 └── .gitignore
+
 
 
 
