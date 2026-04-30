@@ -110,18 +110,7 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
 
 > *All costs are estimates using on-demand us-east-1 pricing. Actual costs may vary.*
 
----
 
-## 📎 Repository Structure
-TinyLlama-AWS-Deployment/
-├── data_processing/
-│   ├── data_ingestion.py
-│   └── data_preprocessing.py
-├── notebooks/
-│   └── tinyllama_finetuning.ipynb
-├── Modelfile
-├── README.md
-└── .gitignore
 
 
 
