@@ -76,6 +76,7 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
 6. Test with curl:
    ```bash
    curl http://localhost:11434/api/generate -d '{"model": "my-finetuned-model", "prompt": "What are houses in Africa called?"}'
+   ![API Verification](assets/terminal_api_log.jpg)
    ```
 
 ---
@@ -95,6 +96,8 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
    http://<EC2_PUBLIC_IP>:3000
    ```
 4. Select the model `my-finetuned-model` and start chatting.
+![Web Interface](assets/webui_dashboard.jpg)
+![Sample Chat](assets/chat_sample.jpg)
 
 ---
 
