@@ -76,7 +76,7 @@ This project demonstrates a complete AI lifecycle: from data processing using Py
 6. Test with curl:
    ```bash
    curl http://localhost:11434/api/generate -d '{"model": "my-finetuned-model", "prompt": "What are houses in Africa called?"}'
-   ![API Verification](assets/terminal_api_log.jpg)
+  
    ```
 
 ---
